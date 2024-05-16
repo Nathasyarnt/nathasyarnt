@@ -12,7 +12,7 @@
 ## 🌐 Connect with me :
 <br>
 
-[![@nathasyarnt](https://img.icons8.com/fluency/48/000000/instagram-new.png "@nathasyarnt")](https://www.instagram.com/nathasyarnt) [![@natasyarnt](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/natasyarnt/) [![nathasyarnt@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@nathasyarnt@gmail.com")](nathasyarnt@gmail.com) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+6281230623818")](tel:+6281230623818) 
+[![@nathasyarnt](https://img.icons8.com/fluency/48/000000/instagram-new.png "@nathasyarnt")](https://www.instagram.com/nathasyarnt) [![@natasyarnt](https://img.icons8.com/fluency/48/000000/linkedin.png "@natasyarnt")](https://www.linkedin.com/in/natasyarnt/) [![nathasyarnt@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@nathasyarnt@gmail.com")](nathasyarnt@gmail.com) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+6281230623818")](tel:+6281230623818) 
 
 <br>
 
