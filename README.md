@@ -19,13 +19,12 @@
 # 💻 Tech Stack:
 <br>
 
- <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+ <img src="https://github.com/Nathasyarnt/nathasyarnt/assets/154650791/5d3eee96-1ae0-4ec7-a122-846e1785df5f.png"/> <img src="https://github.com/Nathasyarnt/nathasyarnt/assets/154650791/67a48e71-15e6-4696-889c-1a07b46a1baf.png"/> <img src="https://github.com/Nathasyarnt/nathasyarnt/assets/154650791/b0f427d0-a0d9-48fa-893e-ce1d4a97da3b.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://github.com/Nathasyarnt/nathasyarnt/assets/154650791/65fcd51a-5eb7-4027-9e86-5b8268e6c724.png"/> <img src="https://github.com/Nathasyarnt/nathasyarnt/assets/154650791/36d06b5f-4f98-4b90-832e-1e3458a2ca3d.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://github.com/Nathasyarnt/nathasyarnt/assets/154650791/c7df583c-eb50-4e64-a35e-6334b9d80a40.png"/> <img src="https://github.com/Nathasyarnt/nathasyarnt/assets/154650791/3dde8448-c169-4c10-b7f5-46a123f12ae3.png"/> <img src="https://github.com/Nathasyarnt/nathasyarnt/assets/154650791/09cee177-0720-4e65-915c-13a24f26a27c.png"/>
 
 <br>
 
